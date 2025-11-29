@@ -1,0 +1,30 @@
+{
+    "clinicas": [
+        {
+            "id": "C001",
+            "nombre": "Clinica San Gabriel",
+            "servicios": [
+                "Urgencias",
+                "Cardiolog\u00eda",
+                "Laboratorio"
+            ],
+            "direccion": {
+                "calle": "Av. America",
+                "numero": 123
+            },
+            "es_privada": true
+        }
+    ],
+    "parques": [
+        {
+            "id": "P001",
+            "nombre": "Parque Metropolitano",
+            "caracteristicas": [
+                "Senderismo",
+                "Zona de parrillas",
+                "Mirador"
+            ],
+            "acceso_libre": true
+        }
+    ]
+}
